@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This  is new 
+=======
+This  is new file
+i am updating in githunb
+>>>>>>> 622e17856ac4edb821bc4e2d42aaac3fdcfab0cd
